@@ -1,0 +1,8 @@
+crewai
+PyPDF2
+crewai_tools
+openai
+python-dotenv
+
+langchain_google_genai
+google.generativeai
